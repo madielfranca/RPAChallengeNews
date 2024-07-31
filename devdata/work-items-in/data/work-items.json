@@ -1,0 +1,13 @@
+[
+  {
+      "payload": {
+         "url": "https://www.nytimes.com/",
+         "search_phrase": "business",
+         "number_of_months": 1,
+         "category": ["Arts"]
+      },
+      "files": {
+      }
+  }
+]
+
